@@ -25,7 +25,7 @@ Re-contextualising local crafts
 
 Specifying local problematique
 Since around 2015 a national 'space-crisis' arose in The Netherlands as result of urbanization, industrialization, expansion of city borders and the support of farmers with the motto 'bigger is better'. In the past years this led to a series of literal clashes between farmers-politicians, farmers-industry and farmers-real-estate about land-use, policies on fertilizers, greenification among others. On top of this the handful of - more or less - unaltered natural parks are protected strictly by EU Natura 2000 guidelines suppressing the surrounding farmers more. <br>
-Land is scarce and therefore all the more valuable.<br>
+Land became scarce and therefore all the more valuable. It's time for experimental alternative ideas and solutions on honest land use.
 
 
 
