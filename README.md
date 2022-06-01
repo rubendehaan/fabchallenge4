@@ -31,7 +31,7 @@ Land became scarce and therefore all the more valuable. It's time for experiment
 ![assembly  sensestation v15](https://user-images.githubusercontent.com/92102729/171450245-40f5cffc-a911-494a-bdef-ad52eee0d113.png)
 
 
-Source: http://www.staphorsterstipwerk.nl/ , [http://www.staphorsterstipwerk.nl/](https://staphorsterstipwerk.eu/)
+Source: http://www.staphorsterstipwerk.nl/ , [http://www.staphorsterstipwerk.eu/]
 
 
 ### Fabrication
