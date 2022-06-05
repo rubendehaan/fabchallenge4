@@ -18,8 +18,7 @@ Build a speculative tool around a future food-related scenario, which will strik
 ## Ideation
 Each of us brainstormed around our individual cultural heritage based on our native countries to come up with a tool that would make sense. We brainstormed these ideas together and made sure the crafts being used were different enough while keeping in line with the concept. Since we were working on three different cultures and tools, we decided to work together on the overlapping fabrications processes during the week.
 
-![image brainstorm]()
-
+<img src="https://github.com/angel-cho/mdef22/blob/38f1195e3360dbeeeddc54ce161eee4090f2df5f/imgs/mc4-ideation.jpg" alt="brainstorm chart" width="600"/>
 
 ## Research
 ### Ruben:<br>
@@ -44,7 +43,6 @@ Source: http://www.staphorsterstipwerk.nl/ , [http://www.staphorsterstipwerk.eu/
 ### Re-contextualising local crafts
 Korea's tradition of pottery roots thousands of years back into the Neolithic period. Since then, Korean pottery has evolved through many different periods, adopting aesthetics that would define a culture and style of an era. Pottery was not only aesthetically important but also played a big part in the development of Korean culture and rituals around food. As clay is the main matterial in pottery, it has traditionally been imporant to find good clay from the earth.  
 
-![image brainstorm]()
 
 ### Specifying local problem
 South Korea is among the world's most prominent nuclear energy countries, with approximately one third of the country's electricity powered by nuclear energy. Because of this, nuclear waste disposal has been a major issue in South Korea. The country has previously found unsustainable solutions such as deep sea disposal of waste or shipping it off to different countries. In 2015, they completed building a $1.56 billion disposal facility that is located about 80 to 130 meters below sea level which they are able to store 800,000 drums of nuclear waste before being completely sealed off. As fool-proof as they claim this technology to be, we have learned from the many underground and under water accidents of storage and mining sites throughout the world that nothing is truly fool-proof. 
@@ -52,16 +50,31 @@ South Korea is among the world's most prominent nuclear energy countries, with a
 With this, I imagine a future scenario where the nuclear waste starts leaking into the soil and contaminates the earth with radioactive particles. People will still need to eat, drink and make pottery from the earth. What would rituals of eating look like then? How can we hold onto our tradition of pottery while not contaminating ourselves with radioactive toxins? 
 
 
-![image brainstorm]()
+<img src="https://github.com/angel-cho/mdef22/blob/38f1195e3360dbeeeddc54ce161eee4090f2df5f/imgs/Korea_Nuclearwaste.jpg" alt="" width="600"/>
+
 
 Source: https://world-nuclear.org/information-library/country-profiles/countries-o-s/south-korea.aspx , https://www.powermag.com/south-korea-begins-burying-nuclear-waste/
 
 
 ## Fabrication
-Description here
+### Ruben:
 
+### Angel: 
+Inspired by some of the forms of Korean pottery from the Three Kingdoms Period, late 5th century, I started by sketching ideas of tableware that also contained the aesthetic of contamination. I chose to make a plate becasuse it is one of the most common pieces of ceramics we use, touch, and place food on a daily basis. Also inspired by the sterile and "new" aesthetic of silicone, I wanted to use combine clay with silicone to create a contrasting effect. 
 
-### Conclusion
+Since the speculated scenario of my pieces stemmed from contamination of the soil, I wanted to create a way for it to hold food without touching the plate. I came up with a two latered plate where on the top layer will be the ceramic plate with holes and below will be a silicone layer which will inflate in certain areas through the holes of the plate to rise above. The food item will be placed on top of the silicone layers, effectively not touching the "contaminated" plate. 
+
+![image sketch]
+
+In order to execute this design, I had to fabricate the plate and the silicone layer. I had to make sure the plate would be steady on top of the silicone and not shift so the silicone will inflate through the holes. In order to make this possible, I designed the plate to have sides that go down a few centimeters, encasing the silicone plate inside. This way, the holes will always be aligned with the inflated parts. After consulting with the Fab Lab tutors, I decided to model the plate form in Rhino3D and 3D print it with PET material, which I would use to create a plaster mold from. 
+
+With the silicone mold, I used the same design from Rhino3D to create a laser cut file in which I can cast the flexible silicone in. 
+
+![image prototype]
+
+### Vikrant:
+
+## Conclusion
 <ul>
   <li>Description here</li>
  <li>Learnings here</li>
