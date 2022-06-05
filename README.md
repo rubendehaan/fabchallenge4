@@ -74,7 +74,7 @@ Because the plate with sides would take too long on the 3D printer, we sliced th
 
 With the silicone mold, I used the same design from Rhino3D to create a laser cut file for the form and the inflatable bubbles. After cutting the layers, I glued them together with super glue and used the "Smooth Sil" 50? silicone to cast the mold. We ran out of silicone after sharing the last bit in the bottle, so I wasn't able to make the bottom part (secured with fabric) in order to test the inflation.
 
-![image prototype]
+![image silicone](https://github.com/angel-cho/mdef22/blob/dda076c7ef29c20abea16ba0bfe1525a8af539b2/imgs/mc4-silicone.gif)
 
 ### Vikrant:
 
