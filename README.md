@@ -25,6 +25,7 @@ Each of us brainstormed around our individual cultural heritage based on our nat
 ### Re-contextualising local crafts
 'Stipwerk' is a local decoration technique applied by a diminishing group of craftswomen around the area of Staphorst, Rouveen and Nieuwleusen in north-west Overijssel. The practize is closely related to their unique local traditional clothing and agricultural work. In the past years an initiative started to host a website with the aim to revive the tradition by proposing new ways of using the technique. 
 
+![image  stipwerk](https://user-images.githubusercontent.com/92102729/171445324-fa0877fa-0294-4057-b488-593c669cd193.png)
 
 
 ### Specifying local problematique
@@ -32,7 +33,6 @@ Since around 2015 a national 'space-crisis' arose in The Netherlands as result o
 Land became scarce and therefore all the more valuable. It's time for experimental alternative ideas and solutions on honest land use.
 
 
-![assembly  sensestation v15](https://user-images.githubusercontent.com/92102729/171450245-40f5cffc-a911-494a-bdef-ad52eee0d113.png)
 
 
 Source: http://www.staphorsterstipwerk.nl/ , [http://www.staphorsterstipwerk.eu/]
@@ -58,8 +58,8 @@ Source: https://world-nuclear.org/information-library/country-profiles/countries
 ## Fabrication
 ### Ruben:
 With the 'Stipwerk' as starting point for integrating the product into it's local context, I replicated elements from the graphical studies into a 2D Fusion sketch and projected and extruded this from the housing.
-![image  stipwerk](https://user-images.githubusercontent.com/92102729/171445324-fa0877fa-0294-4057-b488-593c669cd193.png)
 
+![assembly  sensestation v15](https://user-images.githubusercontent.com/92102729/171450245-40f5cffc-a911-494a-bdef-ad52eee0d113.png)
 
 ### Angel: 
 Inspired by some of the forms of Korean pottery from the Three Kingdoms Period, late 5th century, I started by sketching ideas of tableware that also contained the aesthetic of contamination. I chose to make a plate becasuse it is one of the most common pieces of ceramics we use, touch, and place food on a daily basis. Also inspired by the sterile and "new" aesthetic of silicone, I wanted to use combine clay with silicone to create a contrasting effect. 
