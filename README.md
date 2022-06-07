@@ -20,13 +20,18 @@ Each of us brainstormed around our individual cultural heritage based on our nat
 
 <img src="https://github.com/angel-cho/mdef22/blob/38f1195e3360dbeeeddc54ce161eee4090f2df5f/imgs/mc4-ideation.jpg" alt="brainstorm chart" width="600"/>
 
+
 ## Research
 ### Ruben:<br>
 ### Re-contextualising local crafts
 'Stipwerk' is a local decoration technique applied by a diminishing group of craftswomen around the area of Staphorst, Rouveen and Nieuwleusen in north-west Overijssel. The practize is closely related to their unique local traditional clothing and agricultural work. In the past years an initiative started to host a website with the aim to revive the tradition by proposing new ways of using the technique. 
 
-![image  stipwerk](https://user-images.githubusercontent.com/92102729/171445324-fa0877fa-0294-4057-b488-593c669cd193.png)
 
+
+
+<figure> <img src="https://user-images.githubusercontent.com/92102729/171445324-fa0877fa-0294-4057-b488-593c669cd193.png" />
+  <figcaption align = "center"><b>Regional 'Stiptwerk'</b></figcaption>
+</figure>
 
 ### Specifying local problematique
 Since around 2015 a national 'space-crisis' arose in The Netherlands as result of urbanization, industrialization, expansion of city borders and the support of farmers with the motto 'bigger is better'. In the past years this led to a series of literal clashes between farmers-politicians, farmers-industry and farmers-real-estate about land-use, policies on fertilizers, greenification among others. On top of this the handful of - more or less - unaltered natural parks are protected strictly by EU Natura 2000 guidelines suppressing the surrounding farmers more. <br>
