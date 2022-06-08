@@ -65,6 +65,12 @@ Source: https://world-nuclear.org/information-library/country-profiles/countries
 With the 'Stipwerk' as starting point for integrating the product into it's local context, I replicated elements from the graphical studies into a 2D Fusion sketch and projected and extruded this from the housing.
 
 ![assembly  sensestation v15](https://user-images.githubusercontent.com/92102729/171450245-40f5cffc-a911-494a-bdef-ad52eee0d113.png)
+  <figcaption align = "center"><b>3D impression</b></figcaption>
+  
+  ![mc4-deco](https://user-images.githubusercontent.com/92102729/172645578-f6c76ae6-5568-4964-b0cf-9e8b82efa224.jpeg)
+  <figcaption align = "center"><b>Decorating on the 3D printed piece.</b></figcaption>
+  
+  
 
 ### Angel: 
 Inspired by some of the forms of Korean pottery from the Three Kingdoms Period, late 5th century, I started by sketching ideas of tableware that also contained the aesthetic of contamination. I chose to make a plate becasuse it is one of the most common pieces of ceramics we use, touch, and place food on a daily basis. Also inspired by the sterile and "new" aesthetic of silicone, I wanted to use combine clay with silicone to create a contrasting effect. 
