@@ -12,7 +12,9 @@ How can indigenous craft be used as a tool for re-imagining and reflecting on ou
 
 
 ## Goals and aims
-Build a speculative tool around a future food-related scenario, which will strike up conversation and engagment on topics of ...
+1. Build a speculative tool around a future food-related scenarios
+2. Engage people in conversations on how we can use traditional knowledge systems to inform our future
+3. 
 
 
 ## Ideation
@@ -77,13 +79,13 @@ Inspired by some of the forms of Korean pottery from the Three Kingdoms Period, 
 
 Since the speculated scenario of my pieces stemmed from contamination of the soil, I wanted to create a way for it to hold food without touching the plate. I came up with a two latered plate where on the top layer will be the ceramic plate with holes and below will be a silicone layer which will inflate in certain areas through the holes of the plate to rise above. The food item will be placed on top of the silicone layers, effectively not touching the "contaminated" plate. 
 
-![image sketch]
+![image sketch](https://github.com/angel-cho/mdef22/blob/dda076c7ef29c20abea16ba0bfe1525a8af539b2/imgs/mc4-model.gif)
 
 In order to execute this design, I had to fabricate the plate and the silicone layer. I had to make sure the plate would be steady on top of the silicone and not shift so the silicone will inflate through the holes. In order to make this possible, I designed the plate to have sides that go down a few centimeters, encasing the silicone plate inside. This way, the holes will always be aligned with the inflated parts. After consulting with the Fab Lab tutors, I decided to model the plate form in Rhino3D and 3D print it with PET material, which I would use to create a plaster mold from. 
 
 Because the plate with sides would take too long on the 3D printer, we sliced the bottom part and decided I could stack another laser cut material on it to make the plaster mold. We started printing the plate, which took 9hrs total. While the form was printing, I was exploring best ways to cast the plasters to make the mold. I spoke with Audrey who lost two of her 3D printed forms in the plaster because it wouldn't release. Upon further research, I realized I should have 3D printed with clay from the start. That way, I could have either avoided molding and casting completely, or if I wanted to produce a mold, it would have been much easier to do with clay. So I started preparing clay for the paste printer to create another iteration from clay.
 
-![image 3Dprint]
+![image 3Dprint](https://github.com/angel-cho/mdef22/blob/dda076c7ef29c20abea16ba0bfe1525a8af539b2/imgs/mc4-3dp.gif)
 
 With the silicone mold, I used the same design from Rhino3D to create a laser cut file for the form and the inflatable bubbles. After cutting the layers, I glued them together with super glue and used the "Smooth Sil" 50? silicone to cast the mold. We ran out of silicone after sharing the last bit in the bottle, so I wasn't able to make the bottom part (secured with fabric) in order to test the inflation.
 
