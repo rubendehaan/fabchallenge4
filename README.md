@@ -69,8 +69,11 @@ With the 'Stipwerk' as starting point for integrating the product into it's loca
 ![assembly  sensestation v15](https://user-images.githubusercontent.com/92102729/171450245-40f5cffc-a911-494a-bdef-ad52eee0d113.png)
   <figcaption align = "center"><b>3D impression</b></figcaption>
   
-  ![mc4-deco](https://user-images.githubusercontent.com/92102729/172645578-f6c76ae6-5568-4964-b0cf-9e8b82efa224.jpeg)
+ ![mc4-deco](https://user-images.githubusercontent.com/92102729/172645578-f6c76ae6-5568-4964-b0cf-9e8b82efa224.jpeg)
   <figcaption align = "center"><b>Decorating on the 3D printed piece.</b></figcaption>
+  
+  ![stipt2](https://user-images.githubusercontent.com/92102729/173231610-bf31a497-d2dd-4c71-a2e8-faea76342f62.png)
+  <figcaption align = "center"><b>Final object.</b></figcaption>
   
   
 
