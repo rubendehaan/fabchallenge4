@@ -7,13 +7,13 @@ Our fourth and last Fab Academy microchallenge revolved around the creation of f
 ## Abstract
 Traditions of crafts have been formed around local resources, materials, and land. These ancient techniques have transformed our cultures and ways of life for centuries. Within these past few generations, the world has become hyper-globalized, industrialized, and digitized. Not only does this take a heavy impact on the world, we also lose our material connection and the stories of materials and crafted objects. Drawing inspiration from ancient knowledges from three different localities around the globe, we reflect on how past traditions can be used to imagine and speculate on the rituals of our future. 
 
-How can traditional knowledge be used to intelligently reflect on future scenarios?
-How can indigenous craft be used as a tool for re-imagining and reflecting on our current crises? 
+• How can traditional knowledge be used to intelligently reflect on future scenarios?
+• How can indigenous craft be used as a tool for re-imagining and reflecting on our current crises? 
 
 
 ## Goals and aims
-1. Build a speculative tool around a future food-related scenarios
-2. Engage people in conversations on how we can use traditional knowledge systems to inform our future
+1. Build a speculative tool around future food-related scenarios.
+2. Engage people in conversations on how we can use traditional knowledge systems to inform our future.
 3. 
 
 
